@@ -128,7 +128,7 @@ jobs:
           "tasks": [
             {
               "task_key": "Preparacion_com_ambiente",
-              "description": "Ejecuta notebook preparacion de ambiente comercial digital",
+              "description": "Ejecuta notebook preparacion de ambiente digital comercial",
               "notebook_task": {
                 "notebook_path": "/proyecto_digicom/Preparacion_com_ambiente",
                 "source": "WORKSPACE",

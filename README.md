@@ -1,6 +1,6 @@
 <div align="center">
 
-# Comercio de Medios digitales musicales  ETL Pipeline
+# Comercio Digital Ventas & Ingresos en medios anuncios digitales   ETL Pipeline
 ### Arquitectura Medallion en Azure Databricks
 
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
@@ -336,9 +336,9 @@ https://github.com/JohanSV83/CICDIGICOM01/tree/main/dashboards
 
 ### Johan Hernan Sanchez Villano
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-ventura-martinez-049009142/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guaru)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isc.ventura@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-hernan-sanchez-villano-a4082492/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohanSV83)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isc.johanvillano83@gmail.com)
 
 **Data Engineering** | **Azure Databricks** | **Delta Lake** | **CI/CD**
 
@@ -346,10 +346,7 @@ https://github.com/JohanSV83/CICDIGICOM01/tree/main/dashboards
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
+copyrigth JOHAN HERNAN SANCHEZ VILLANO
 ---
 
 <div align="center">

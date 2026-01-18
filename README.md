@@ -48,7 +48,7 @@ Pipeline ETL enterprise-grade que extrae desde un origen de base de datos relaci
 📊 Databricks Dashboards (Visualización)
 ```
 
-![Texto descriptivo](Arquitectura.png)
+![Texto descriptivo](Arquitectura.jpg)
 
 
 ### 📦 Capas del Pipeline

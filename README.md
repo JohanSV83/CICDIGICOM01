@@ -109,7 +109,7 @@ Pipeline ETL enterprise-grade que extrae desde un origen de base de datos relaci
 - `catalog_comercial.silver.pedido_detalle`
 - `catalog_comercial.silver.orden`
 - `catalog_comercial.silver.orden_detalle`
-- `warranty_products`
+
 
 **Características**:
 - ✅ Star Schema

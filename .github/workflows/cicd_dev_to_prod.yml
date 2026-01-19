@@ -163,7 +163,7 @@ jobs:
             },
             {
               "task_key": "cleaning_com_data",
-              "description": "Ejecuta notebook datos limpios con nuevos nombres de columnas a las tablas transaccionales y maestras a silver",
+              "description": "Ejecuta notebook datos limpios con nuevos nombres de columnas a las tablas transaccionales y maestras a tablas en schema silver",
               "notebook_task": {
                 "notebook_path": "/proyecto_digicom/cleaning_com_data",
                 "source": "WORKSPACE",
@@ -450,9 +450,9 @@ jobs:
         echo "✅ Tareas configuradas:"
         echo "   - tarea1_notebook1 (Preparacion_com_ambiente)"
         echo "   - tarea2_notebook2 (ingestion_com_data)"
-        echo "   - tarea1_notebook1 (cleaning_com_data)"
-        echo "   - tarea2_notebook2 (transform_com_data)"
-        echo "   - tarea1_notebook1 (kpi_com_data)"                
+        echo "   - tarea3_notebook1 (cleaning_com_data)"
+        echo "   - tarea4_notebook2 (transform_com_data)"
+        echo "   - tarea5_notebook1 (kpi_com_data)"                
         echo "✅ Cluster existente: CLUSTER_DBR configurado"
         echo "🚀 Workflow ejecutado automáticamente"
         echo ""
